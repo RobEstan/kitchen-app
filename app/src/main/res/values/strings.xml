@@ -32,6 +32,24 @@
     <string name="mango_image_description">Image of a mango</string>
     <string name="banana_image_description">Image of bananas</string>
 
+    <!-- Settings section -->
+    <string name="name">Name: John Smith</string>
+    <string name="age">Age: 21</string>
+    <string name="favorites">Favorites</string>
+    <string name="fav_peanuts">Peanuts</string>
+    <string name="fav_almonds">Almonds</string>
+    <string name="allergies">Allergies</string>
+    <string name="alg_strawberries">Strawberries</string>
+    <string name="alg_shrimp">Shrimp</string>
+    <string name="gender">Gender: Male</string>
+    <string name="Settings">Settings</string>
+    <string name="als">Allow Location Sharing</string>
+    <string name="aatc">Allow Access to Contacts</string>
+    <string name="cuh">Collect User History</string>
+    <string name="udtrr">Use Data to Reccomend Recipes</string>
+    <string name="an">Allow Notifications</string>
+    <string name="snwined">Send Notifications when Items near Expire Date</string>
+
     <!-- Summary section -->
     <string name="shopping_summary">Shopping Summary</string>
     <string name="total_items">Total items:</string>
